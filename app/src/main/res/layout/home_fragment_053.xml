@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:text="BIODATA"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:text="- Nama : Tiara juli arsita"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:text="- Alamat : Palu"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:text="Biasanya dipanggil yaya"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:text="Mahasiswi semester 3, teknik informatika, universitas tadulako"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
